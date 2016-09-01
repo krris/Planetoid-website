@@ -11,17 +11,23 @@
 html, body {
     height: 100%;
     margin: 0;
+    font-family: 'OstrichSans-Black';
+    font-size: 20px;
 }
 
 header {
   height: 210px;
   text-align: center;
   background-color: #FFFFFF;
+  font-size: 30px;
+  color: #3E3E3E;
+  padding-bottom: 20px;
 }
 
 footer {
   font-family: 'OstrichSans-Regular';
   font-size: 20px;
+  color: #3E3E3E;
   text-align: center;
 }
 
@@ -57,12 +63,14 @@ footer, .page-wrap:after {
 
 .social {
   text-align: center;
+  margin-bottom: 20px; 
 }
 
 .main-section {
   max-width: 600px;
   margin: auto;
   text-align: center;
+  margin-bottom: 50px; 
 }
 
 .appstore {
