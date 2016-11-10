@@ -35,6 +35,10 @@ footer, .page-wrap:after {
   height: 30px; 
 }
 
+a, a:visited{
+     color: #3E3E3E;
+}
+
 .header {
   margin-bottom: 50px;
   padding-left: 20px;
